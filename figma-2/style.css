@@ -1,0 +1,106 @@
+*{
+    border: none;
+   
+}
+
+.hero-figma{
+ 
+    width: 544px;
+    margin: auto;
+  
+
+   
+}
+
+.hero{
+    height:636px ;
+    width: 544px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img {
+    height: 361px;
+    width: 504px;
+    border-radius: 10%;
+}
+
+button {
+    padding: 10px;
+
+}
+
+.img1{
+    height:260px;
+    width:284px;
+    border-radius: 10%;
+}
+.section1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 15px;
+
+    
+    
+}
+
+.img2{
+    height: 260px;
+    width: 260px;
+    border-radius: 10%;
+}
+
+.section2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.img3{
+    height: 260px;
+    width: 260px;
+    border-radius: 10%;
+}
+
+.section3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.text-section{
+    padding: 10px;
+}
+#foot{
+    font-size: 10px;    
+}
+
+.footer{
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+
+}
+
+.icons{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+   padding: 10px;
+   
+}
+
+.ipadress{
+    display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+
+}

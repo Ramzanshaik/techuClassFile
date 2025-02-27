@@ -1,0 +1,102 @@
+*{
+    border: none;
+}
+
+.hero-section{
+    height: 700px;
+}
+
+.hero-container{
+    height: 700px;
+    width: 500px;
+
+}
+
+.child-form{
+    height: 700px;
+    width: 500px;
+
+}
+
+.figma-container{
+    display: flex; 
+    justify-content: center;
+
+}
+#fname{
+    width: 50%;
+    border: none;
+    background-color:#EFF0F2;
+}
+#email{
+    width: 50%;
+    border: none;
+    background-color:#EFF0F2;
+}
+#password{
+    width: 50%;
+    border: none;
+    background-color:#EFF0F2;
+}
+.forms{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 150%;
+    padding-left: 20px;
+}
+h1{
+    text-align: center;
+}
+
+.child-form{
+    padding: 20px 30px 50px 50px;
+}
+
+#button{
+    
+     background: #007074;
+     border-radius: 5%;
+     /* padding: 5px; */
+     width: 30%;
+     height: 20px;
+    border: none; 
+     
+}
+
+.id-but{
+    display: flex;
+    justify-content: center;
+     flex-direction: row; 
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#foot1{
+    color: #007074;
+}
+
+#o{
+    text-align: center;
+}
+
+#id-icon{
+    background-color: #D2D2D2;
+    border-radius: 5%;
+    border: none;
+    height: 30px;
+    width: 40%;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    padding: 10px;
+}

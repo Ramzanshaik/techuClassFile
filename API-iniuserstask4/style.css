@@ -1,0 +1,16 @@
+.usercontainer{
+    border: 2px solid greenyellow;
+    width: 400px;
+    height: 400px;
+     margin-left: 400px;
+background-color: azure;
+    text-align: center;
+}
+#btn{
+    margin-left: 550px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(228, 201, 201);
+    color: white;
+    border-radius: 20px;
+}

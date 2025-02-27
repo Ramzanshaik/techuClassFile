@@ -1,0 +1,34 @@
+.country-card {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 35%;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.country-head h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #2c3e50;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: 20px;
+}
+
+.country-head h1:hover {
+    transform: scale(1.1);
+    
+}
+
+input{
+    margin-left: 550px;
+}

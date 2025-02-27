@@ -1,0 +1,26 @@
+
+.parent{
+    border: 2px solid royalblue;
+    height: 600px;
+    display: flex;
+}
+.child{
+    border: 2px solid red;
+    height: 500px;
+    width: 40%;
+    padding: 10px;
+    margin: 30px 20px 10px 30px;
+}
+.child-route{
+    border: 2px solid red;
+    height: 500px;
+    width: 60%;
+    padding: 10px;
+    margin: 30px 10px 10px 30px;
+}
+.img{
+    border-radius: 50%;
+}
+.head{
+display: flex;
+}

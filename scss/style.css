@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.navbar ul {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.navbar ul li {
+  background-color: red;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,16 @@
+@mixin dir($spacing,$dir){
+    display: flex;
+    justify-content: $spacing;
+    flex-direction: $dir;
+}
+.navbar{
+    @include dir(space-between,row);
+
+    ul{
+        @include dir(space-between,row);
+
+        li{
+            background-color: red;
+        }
+    }
+}

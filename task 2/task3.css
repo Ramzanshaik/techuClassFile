@@ -1,0 +1,36 @@
+.image{
+    height: 136px;
+    width: 350px;
+    padding: 20px;
+    padding-left: 30%;
+}
+.para{
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+.footer{
+    display: flex;
+    justify-content:space-between;
+}
+
+.fleft{
+    border: none;
+    height: 60px;
+    width: 50%;
+    font-size: 18px;
+}
+
+.fright{
+    border: none;
+    height: 60px;
+    width: 50%;
+    font-size: 18px;
+    background-color: rgba(221, 255, 0, 0.87);
+    color: black;
+}
+body{
+    background-color: black;
+}
